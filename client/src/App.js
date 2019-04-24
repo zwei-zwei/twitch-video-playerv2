@@ -3,7 +3,7 @@ import ReactTwitchEmbedVideo from 'react-twitch-embed-video';
 
 const App = () => (
     <div id='video-module'>
-        <ReactTwitchEmbedVideo channel='ninja' />
+        <ReactTwitchEmbedVideo channel='shroud' />
     </div>
 )
 export default App;
